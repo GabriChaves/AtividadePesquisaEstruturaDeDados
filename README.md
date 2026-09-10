@@ -1,1 +1,9 @@
 # Atividade Pesquisa Estrutura De Dados
+
+📌Objetivo:
+-
+- Escolher uma situação real — não necessariamente comercial — em que uma Estrutura de Dados seja fundamental para o funcionamento da solução, respondendo as seguintes perguntas:
+  1- Onde existe uma pilha no Windows?
+  2- Onde uma árvore aparece no Linux?
+  3- Como o Spotify organiza músicas?
+  4- Por que um banco de dados usa B-tree?
