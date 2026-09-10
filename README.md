@@ -4,13 +4,13 @@
 -
 - Escolher uma situação real — não necessariamente comercial — em que uma Estrutura de Dados seja fundamental para o funcionamento da solução, respondendo as seguintes perguntas:
 
-➡️ Onde existe uma pilha no Windows?
+1- Onde existe uma pilha no Windows?
 
-➡️ Onde uma árvore aparece no Linux?
+2- Onde uma árvore aparece no Linux?
 
-➡️ Como o Spotify organiza músicas?
+3- Como o Spotify organiza músicas?
 
-➡️ Por que um banco de dados usa B-tree?
+4- Por que um banco de dados usa B-tree?
 
 1️⃣- Onde existe uma pilha no Windows?
 -
