@@ -18,7 +18,7 @@ Sempre que quando digitamos uma frase em um editor de código ou de texto, será
   
 Sem uma estrutura adequada, guardar o histórico inteiro em uma lista comum tornaria o salvamento e a navegação extremamente mais lentos. A Pilha (Stack) faz parte de uma solução fundamental, operando no formato LIFO (Last In, First Out - O último a entrar é o primeiro a sair), a ação mais recente vai ser a primeira a ser desfeita ao pressionar Ctrl + Z.
   
-O sistema faz um "push" de cada alteração na pilha e, ao desfazer, faz um "pop" para restaurar o estado anterior com complexidade $O(1)$.
+O sistema faz um "push" de cada alteração na pilha e, ao desfazer, faz um "pop" para restaurar o estado anterior com complexidade O(1).
 
 1️⃣- Onde existe uma pilha no Windows?
 -
@@ -32,7 +32,7 @@ No Virtual File System (VFS) e no sistema de diretórios (a raiz / que se desdob
 -
 - O Spotify combina múltiplas estruturas dependendo do contexto:
 
-  Tabelas Hash (Hash Maps): Para busca instantânea $O(1)$ de metadados das músicas por ID ou nome.
+  Tabelas Hash (Hash Maps): Para busca instantânea O(1) de metadados das músicas por ID ou nome.
   
   Grafos (Graphs): Para o sistema de recomendação, onde nós representam usuários/músicas e as arestas representam conexões de afinidade ou histórico de escuta.
   
