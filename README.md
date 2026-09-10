@@ -13,6 +13,7 @@
   4- Por que um banco de dados usa B-tree?
 
 ↩️O Atalho de Desfazer (Ctrl + Z)
+-
 
 1️⃣- Onde existe uma pilha no Windows?
 -
