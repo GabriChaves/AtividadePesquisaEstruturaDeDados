@@ -2,7 +2,7 @@
 
 📌Objetivo:
 -
-- Escolher uma situação real — não necessariamente comercial — em que uma Estrutura de Dados seja fundamental para o funcionamento da solução, respondendo as seguintes perguntas:
+- Escolher uma situação real — não necessariamente comercial — em que uma Estrutura de Dados seja fundamental para o funcionamento da solução e responder as seguintes perguntas:
   
   1- Onde existe uma pilha no Windows?
 
